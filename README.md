@@ -108,11 +108,6 @@ The distribution of engagement rates was analyzed to understand how engagement v
 ---
 <img width="1365" height="743" alt="Image" src="https://github.com/user-attachments/assets/d04c2d56-20b4-44e7-834a-89bb8fe2d965" />
 
-## 7. Category-Wise Engagement Analysis
-
-### Category-Wise Engagement Efficiency
-<img width="1365" height="743" alt="Image" src="https://github.com/user-attachments/assets/eaefdb75-0638-4c88-ae59-47e800da6e2b" />
-
 ---
 
 # 📊 Key Findings
